@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ralphdavidson <-- This is my Github name. I'm Ralph Davidson.
-- 👀 I’m interested in Software Development, Web Development including Testing.
-- 🌱 I’m currently learning Web Development, along with relearning other concepts.
+- 👋 Hi, I’m @StarLight Star Bright.
+- 👀 I’m waiting in the sky, and like to come and meet you.
+- 🌱 I think I'd blow your minds (through Software Development, Web Development including Testing.) 
 - 💞️ I’m looking to collaborate on creating applications, and the entire software lifecycle.
-- 📫 How to reach me - ralphdavidson89@gmail.com
+- ✨'Cause I know it's all worthwhile.✨
+- 📫 (All credit goes to David Bowie - Starman).
 
 <!---
 ralphdavidson/ralphdavidson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
